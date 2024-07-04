@@ -4,6 +4,14 @@ import Name from './Atoms/Name';
 import Timer from './Atoms/Timer'
 import Textlight from './Atoms/Textlight';
 import Handimg from './Atoms/Handimg';
+import Parents from './Atoms/Parantes';
+import PetsImg from './Atoms/PestImg';
+import LeyendGod from  './Atoms/GodLeyend';
+import Date from './Atoms/Date';
+import PlaceCard from './Atoms/PlaceCard';
+import FinalNote from './Atoms/FinalNote';
+
+
 
 function App() {
   return (
@@ -13,6 +21,12 @@ function App() {
       <Timer/>
       <Textlight/>
       <Handimg/>
+      <Parents/>
+      <PetsImg/>
+      <LeyendGod/>
+      <Date/>
+      <PlaceCard/>
+      <FinalNote/>
     </div>
   );
 }
