@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/airam-bautizo-card/static/css/main.74283d4d.css",
-    "main.js": "/airam-bautizo-card/static/js/main.2169cd78.js",
+    "main.css": "/airam-bautizo-card/static/css/main.c44aa845.css",
+    "main.js": "/airam-bautizo-card/static/js/main.b7346631.js",
     "static/js/453.ae6327c9.chunk.js": "/airam-bautizo-card/static/js/453.ae6327c9.chunk.js",
     "static/media/Mano.png": "/airam-bautizo-card/static/media/Mano.50986961a2872ee73248.png",
+    "static/media/Animalitos.png": "/airam-bautizo-card/static/media/Animalitos.d19d345e89a5ce75600d.png",
     "static/media/logo.svg": "/airam-bautizo-card/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/airam-bautizo-card/index.html",
-    "main.74283d4d.css.map": "/airam-bautizo-card/static/css/main.74283d4d.css.map",
-    "main.2169cd78.js.map": "/airam-bautizo-card/static/js/main.2169cd78.js.map",
+    "main.c44aa845.css.map": "/airam-bautizo-card/static/css/main.c44aa845.css.map",
+    "main.b7346631.js.map": "/airam-bautizo-card/static/js/main.b7346631.js.map",
     "453.ae6327c9.chunk.js.map": "/airam-bautizo-card/static/js/453.ae6327c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74283d4d.css",
-    "static/js/main.2169cd78.js"
+    "static/css/main.c44aa845.css",
+    "static/js/main.b7346631.js"
   ]
 }
