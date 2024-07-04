@@ -1,38 +1,50 @@
 .App {
   text-align: center;
+  background-color: #FFC8DD;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.ImgCruz{
+  margin-top: 100px;
+}
+.Name h3{
+  text-align: center;
+  color: #000A2B;
+  font-size: 15px;
+  letter-spacing: 5px;
+}
+.Name h1{
+  color: #000A2B;
+  font-family: 'Script MT', cursive;
+}
+.leyend{
+  font-size: 20px;
+  color: #000A2B;
+  font-family: 'Script MT', cursive;
+}
+.timer{
+  margin-top: 10%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.paper {
+  margin: 0 auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  background-color: white;
+  color: #000A2B;
+  width: 70%;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  border-radius: 10%;
+  font-weight: 500;
+  box-shadow: 5px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.App-link {
-  color: #61dafb;
+.paper > * {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.HandImg{
+  width: 70%;
+  height: auto;
 }
