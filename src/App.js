@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import CenterImg from './Atoms/Centerimg';
 import Name from './Atoms/Name';
 import Timer from './Atoms/Timer'
@@ -10,7 +10,7 @@ import LeyendGod from  './Atoms/GodLeyend';
 import Date from './Atoms/Date';
 import PlaceCard from './Atoms/PlaceCard';
 import FinalNote from './Atoms/FinalNote';
-
+import PlayerMusic from './Atoms/MusiscPlayer';
 
 
 function App() {
@@ -19,6 +19,7 @@ function App() {
       <CenterImg/>
       <Name/>
       <Timer/>
+      {/* <PlayerMusic/> */}
       <Textlight/>
       <Handimg/>
       <Parents/>

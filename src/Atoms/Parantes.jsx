@@ -9,12 +9,12 @@ function Textlight() {
         <br />
         <span>MIS PAPAS</span>
          <div className='paper' >
-            <span className='parents'>Armin Encalda</span>
-            <span className='parents'>Maria Jose Chan</span>
+            <span className='parents'>Armin Encalda Paredes</span>
+            <span className='parents'>Maria Jose Chan Moguel</span>
          </div>
          <span>MI MADRINA</span>
          <div className='paper' >
-            <span className='parents'>Patricia Chan</span>
+            <span className='parents'>Patricia Cecilia Chan Moguel</span>
          </div>
     </div>
   );

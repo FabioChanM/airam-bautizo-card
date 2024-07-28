@@ -1,7 +1,10 @@
 
 import '../App.css';
 import { Paper, Avatar, Button } from '@mui/material';
-import Mano from './Mano.png';
+import Mano from './Capilla.jpg';
+import Casa from'./Casa.png';
+import Map from './Map';
+import Map2 from './Map2';
 function PlaceCard() {
   return (
     <div className="App">
@@ -13,15 +16,13 @@ function PlaceCard() {
           sx={{ width: 120, height: 120 }}
         className='avatar'
         src={Mano}/>
-        <h3>PARROQUIA SAN BENITO</h3>
-        <h4>HORA 5:PM</h4>
-        <span>AV 5 COLONIAS INDUSTRIAS NO CONTTAMINANTES</span>
-        <br /> 
-        <Button variant="contained"
-        sx={{
-        backgroundColor: "#000A2B",
-        marginTop: "20px"
-        }}>VER UBICACION</Button>
+        <br />
+        <h3>PARROQUIA NUESTRA SEÑORA DE ENCARNACIÓN</h3>
+        <br />
+        <h4>HORA 9:30 AM MISA</h4>
+        <br />
+        <h4>Bautizo</h4>
+        <Map/>
     </Paper> 
 
     <br />
@@ -30,16 +31,17 @@ function PlaceCard() {
         <Avatar
           sx={{ width: 120, height: 120 }}
         className='avatar'
-        src={Mano}/>
-        <h3>CASA DE ARMIN</h3>
-        <h4>HORA 7:PM</h4>
-        <span>AV 5 COLONIAS INDUSTRIAS NO CONTTAMINANTES</span>
+        src={Casa}/>
+              <br />
+        <h3>CASA DE CELEBRACIÓN FAMILIAR</h3>
+        <br />
+        <h4>HORA 2:00 PM</h4>
+        <br />
+        <span>CIUDAD CAUCEL</span>
+        <br />
+        <span>Cerca de la hacienca Anicabil</span>
         <br /> 
-        <Button variant="contained"
-        sx={{
-        backgroundColor: "#000A2B",
-        marginTop: "20px"
-        }}>VER UBICACION</Button>
+        <Map2/>
     </Paper>
     </div>
   );

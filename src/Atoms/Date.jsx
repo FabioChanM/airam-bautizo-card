@@ -3,11 +3,12 @@ import '../App.css';
 function Date() {
   return (
     <div className="App date">
+      <br />
       <h1>Mi bautizo</h1>
 
       <div className='fechaContainer'>
 
-        <span>DOMINGO 20 DE JULIO 2024</span>
+        <span>SABADO 10 DE AGOSTO 2024</span>
 
       </div>
     </div>
