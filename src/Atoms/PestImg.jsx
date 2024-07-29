@@ -1,5 +1,5 @@
 
-import Animalistos from './Animalitos.png';
+import Animalistos from './R.png';
 import '../App.css';
 function PetsImg() {
   return (

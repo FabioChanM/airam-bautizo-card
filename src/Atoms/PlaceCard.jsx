@@ -20,8 +20,7 @@ function PlaceCard() {
         <h3>PARROQUIA NUESTRA SEÑORA DE ENCARNACIÓN</h3>
         <br />
         <h4>HORA 9:30 AM MISA</h4>
-        <br />
-        <h4>Bautizo</h4>
+        <h4>HORA 11:00 AM AM BAUTIZO</h4>
         <Map/>
     </Paper> 
 
@@ -34,8 +33,10 @@ function PlaceCard() {
         src={Casa}/>
               <br />
         <h3>CASA DE CELEBRACIÓN FAMILIAR</h3>
-        <br />
-        <h4>HORA 2:00 PM</h4>
+    
+        <h4>TERMINANDO MISA</h4>
+     
+        <h4>APARTIR DE LAS 12:00 PM</h4>
         <br />
         <span>CIUDAD CAUCEL</span>
         <br />

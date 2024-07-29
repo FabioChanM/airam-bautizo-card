@@ -6,6 +6,8 @@ function Name() {
   return (
     <div className="App Name">
       <h3>Mi bautizo</h3>
+      <h3>y</h3>
+      <h3>Mi cumpleaños</h3>
       <h1>Airam</h1>
       <Chip label="- 11 AGOSTO 2024 -"  sx={{
          backgroundColor: '#000A2B',
