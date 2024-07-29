@@ -11,7 +11,7 @@ const Timer = () => {
   const [minutes, setMinutes] = useState(0);
   const [seconds, setSeconds] = useState(0);
 
-  const deadline = "December 31, 2024";
+  const deadline = "August 11, 2024";
   const Item = styled(Paper)(({ theme }) => ({
     backgroundColor: 'transparent',
     border: '3px solid #000A2B',

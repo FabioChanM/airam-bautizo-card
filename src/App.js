@@ -19,7 +19,7 @@ function App() {
       <CenterImg/>
       <Name/>
       <Timer/>
-      {/* <PlayerMusic/> */}
+      <PlayerMusic/>
       <Textlight/>
       <Handimg/>
       <Parents/>

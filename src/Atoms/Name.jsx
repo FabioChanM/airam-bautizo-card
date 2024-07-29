@@ -7,7 +7,7 @@ function Name() {
     <div className="App Name">
       <h3>Mi bautizo</h3>
       <h1>Airam</h1>
-      <Chip label="- 03 JULIO 2024 -"  sx={{
+      <Chip label="- 11 AGOSTO 2024 -"  sx={{
          backgroundColor: '#000A2B',
          color: 'white',
           
