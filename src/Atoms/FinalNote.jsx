@@ -4,8 +4,8 @@ import { Paper, Button } from '@mui/material';
 import Mano from './Mano.png'; // Asegúrate de que este archivo esté en la ruta correcta
 
 function FinalNote() {
-  const phoneNumber = '+52991359880'; // Asegúrate de incluir el código de país (ej. 52 para México)
-  const message = encodeURIComponent('¡Hola! Estoy interesado en tu producto.');
+  const phoneNumber = '+529991359880'; // Asegúrate de incluir el código de país (ej. 52 para México)
+  const message = encodeURIComponent('¡Hola! Confirmo mi asistencia.');
   const whatsappUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${message}`;
 
   return (
