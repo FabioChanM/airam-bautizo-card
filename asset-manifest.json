@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/airam-bautizo-card/static/css/main.0e5dc7ec.css",
-    "main.js": "/airam-bautizo-card/static/js/main.c9dbb27e.js",
+    "main.css": "/airam-bautizo-card/static/css/main.7942997f.css",
+    "main.js": "/airam-bautizo-card/static/js/main.cee849ce.js",
     "static/js/453.ae6327c9.chunk.js": "/airam-bautizo-card/static/js/453.ae6327c9.chunk.js",
     "static/media/Sirenita.mp3": "/airam-bautizo-card/static/media/Sirenita.3ccc9828f5703d3bc43f.mp3",
     "static/media/R.png": "/airam-bautizo-card/static/media/R.4653562f4dd05ba39659.png",
@@ -10,12 +10,12 @@
     "static/media/Capilla.jpg": "/airam-bautizo-card/static/media/Capilla.54644743375f5b93b87f.jpg",
     "static/media/Face.png": "/airam-bautizo-card/static/media/Face.6bddb938b6a9af7c423c.png",
     "index.html": "/airam-bautizo-card/index.html",
-    "main.0e5dc7ec.css.map": "/airam-bautizo-card/static/css/main.0e5dc7ec.css.map",
-    "main.c9dbb27e.js.map": "/airam-bautizo-card/static/js/main.c9dbb27e.js.map",
+    "main.7942997f.css.map": "/airam-bautizo-card/static/css/main.7942997f.css.map",
+    "main.cee849ce.js.map": "/airam-bautizo-card/static/js/main.cee849ce.js.map",
     "453.ae6327c9.chunk.js.map": "/airam-bautizo-card/static/js/453.ae6327c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e5dc7ec.css",
-    "static/js/main.c9dbb27e.js"
+    "static/css/main.7942997f.css",
+    "static/js/main.cee849ce.js"
   ]
 }
