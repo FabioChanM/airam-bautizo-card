@@ -7,8 +7,8 @@ function Textlight() {
   return (
     <div className="App paper">
       
-        <span>LA LUZ DE DIOS SE ENCIENDE HOY EN MI CORAZON</span>
-        <span>PARA ILUMINAR TODO EL CAMINO DE MI VIDA
+        <span>La luz de dios se enciende en mi corazón</span>
+        <span>Para iluminar el camino de mi vida
         </span>
     </div>
   );

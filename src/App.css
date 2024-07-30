@@ -7,9 +7,10 @@
   margin-top: 100px;
 }
 .Name h3{
+  font-family: 'Script MT', cursive;
   text-align: center;
   color: #000A2B;
-  font-size: 15px;
+  font-size: 20px;
   letter-spacing: 5px;
 }
 .Name h1{
@@ -37,6 +38,7 @@
   border-radius: 10px;
   font-weight: 500;
   box-shadow: 5px 4px 6px rgba(0, 0, 0, 0.1);
+   font-family: 'Script MT', cursive;
 }
 
 .paper > * {

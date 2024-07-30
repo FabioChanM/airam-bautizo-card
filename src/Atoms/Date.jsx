@@ -6,7 +6,7 @@ function Date() {
       <br />
       <h1>Mi bautizo</h1>
 
-      <h1>Mi cumpleaños 1</h1>
+      <h1>Mi 1 cumpleaños</h1>
 
 
       <div className='fechaContainer'>
