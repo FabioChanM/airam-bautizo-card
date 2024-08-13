@@ -11,7 +11,7 @@ function Date() {
 
       <div className='fechaContainer'>
 
-        <span>DOMINGO 11 DE AGOSTO 2024</span>
+        <span>SABADO 17 DE AGOSTO 2024</span>
 
       </div>
     </div>
